@@ -1,0 +1,22 @@
+{
+  "name": "reactwebsite",
+  "version": "1.0.0",
+  "description": "test website",
+  "main": "/src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marcuslavender/MyReactWebsite.git"
+  },
+  "author": "Marcus Lavender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcuslavender/MyReactWebsite/issues"
+  },
+  "homepage": "https://github.com/marcuslavender/MyReactWebsite#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
